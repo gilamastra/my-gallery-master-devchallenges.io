@@ -1,0 +1,147 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Montserrat;
+}
+
+.pad-left{
+    padding-left:5px;
+}
+.pad-right{
+    padding-right:5px;
+}
+.container{
+    max-width:900px;
+    padding:0 2%;
+    margin:0 auto;
+}
+.flex__header{
+display:flex;
+flex-direction:column;
+justify-content:center;
+align-items:center;
+margin:0 auto;
+margin-top:60px;
+
+}
+.flex__header img{
+    width: 167px;
+    height:100%;
+    border-radius:16px;
+
+}
+.flex__header h2{
+    font-weight: 600;
+    margin:10px 0px;
+    font-size: 24px;
+    line-height: 29px;
+    color: #4E5150;
+}
+.flex__header p {
+    font-weight: 600;
+    font-size: 14px;
+    color: #A9A9A9;
+}
+.flex__header .header__squares{
+    display:flex;
+
+}
+.flex__header .header__square{
+    width: 100px;
+height: 67px;
+background: #E5E5E5;
+border-radius: 12px;
+text-align:center;
+line-height:0px;
+margin:20px 15px;
+}
+.flex__header .header__square h2{
+    font-weight: 600;
+font-size: 18px;
+color: #4E5150;
+}
+.flex__header .header__square p{
+    font-weight: 600;
+    font-size: 14px;
+    color: #BDBDBD;
+    
+}
+section .flex__row_1{
+display: flex;
+justify-content:center;
+
+}
+section .flex__row_1 img{
+    height:30vh;
+    margin-top:40px;
+    max-height:300px;
+
+
+}
+section .flex__row_1 img:first-of-type{
+    width:30%;
+border-radius: 15px;
+
+}
+section .flex__row_1 img:last-of-type{
+    width:70%;
+    padding-left:15px;
+    border-radius:15px;
+
+
+}
+section .flex__row_2{
+    display:flex;
+    margin-top:25px;
+}
+.flex__row_2-1{
+display: flex;
+flex-direction: column;
+justify-content:center;
+width:100%;
+
+}
+.flex__row_2-1 img{
+
+    width:100%;
+    border-radius:15px;
+    height:30vh;
+
+
+}
+.flex__row_2-1-1{
+    margin-top:20px;
+
+}
+.flex__row_2-1-1 img{
+    width:49%;
+    border-radius:27px;
+
+
+}
+.flex__row_2-2 img{
+
+border-radius:27px;
+
+}
+
+.abajur{
+    border-radius:27px;
+    margin-left:20px;
+    width:30%;
+}
+
+@media screen and (max-width:768px){
+    section .flex__row_1 img{
+        height:22vh;
+    }
+
+
+    .flex__row_2-1 img{
+
+        height:22vh;
+    
+    }
+    
+}
