@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{My-Gallery-Master</h1>
+<h1 align="center">My-Gallery-Master</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://{https://gilamastra.github.io/my-gallery-master-devchallenges.io/}">
+    <a href="https://https://gilamastra.github.io/my-gallery-master-devchallenges.io/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{https://github.com/gilamastra/my-gallery-master-devchallenges.io}">
+    <a href="https://https://github.com/gilamastra/my-gallery-master-devchallenges.io">
       Solution
     </a>
     <span> | </span>
-    <a href="./gallery.png">
+    <a href="https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I>
       Challenge
     </a>
   </h3>
@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](./gallery.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
